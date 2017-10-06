@@ -1,6 +1,8 @@
 # hello-world
 This is my tutorial repository.
 
-Here I put some lines so I get merge conflicts I can resolve.
-Evil!!!!
+
+I should write really fancy stuff here.
 So... what now?
+I resolved the merge conflicts.
+Evil!!!!
